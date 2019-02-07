@@ -12,3 +12,4 @@ class MainActivity : AppCompatActivity() {
 }
 // reference
 // https://www.raywenderlich.com/9193-constraintlayout-tutorial-for-android-getting-started
+//https://medium.com/exploring-android/exploring-ktx-for-android-13a369795b51
